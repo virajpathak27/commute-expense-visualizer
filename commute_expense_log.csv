@@ -1,0 +1,9 @@
+Date,Day,Mode,Departure_Slot,Scheduled_Mins,Actual_Mins,Delay_Reason,Transit_Cost_INR,Food_Cost_INR,Academic_Misc_INR
+2026-10-01,Thursday,MSRTC Bus,07:30 AM,45,55,Morning highway traffic,0,45,20
+2026-10-02,Friday,MSRTC Bus,07:30 AM,45,48,On time,0,30,0
+2026-10-03,Saturday,Two-Wheeler,08:00 AM,35,38,Clear road,140,60,50
+2026-10-05,Monday,MSRTC Bus,07:15 AM,45,65,Bus stand crowding,0,50,120
+2026-10-06,Tuesday,MSRTC Bus,07:30 AM,45,50,Normal traffic,0,40,0
+2026-10-07,Wednesday,Private Share/Auto,08:00 AM,40,42,Missed regular bus,80,35,30
+2026-10-08,Thursday,MSRTC Bus,07:30 AM,45,58,Road diversion,0,45,0
+2026-10-09,Friday,Two-Wheeler,08:00 AM,35,36,Clear road,140,70,0
